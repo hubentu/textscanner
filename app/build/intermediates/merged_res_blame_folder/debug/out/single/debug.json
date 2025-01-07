@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.textscaner.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.textscaner.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.textscaner.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.textscaner.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.textscaner.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.textscaner.app-main-40:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.textscaner.app-merged_res-38:/drawable_rectangle_border.xml.flat",
+        "source": "com.example.textscaner.app-main-40:/drawable/rectangle_border.xml"
+    },
+    {
+        "merged": "com.example.textscaner.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.textscaner.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
