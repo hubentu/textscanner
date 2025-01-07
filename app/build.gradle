@@ -20,9 +20,9 @@ android {
     signingConfigs {
         release {
             storeFile file('release-keystore.jks')
-            storePassword 'textscaner123'
-            keyAlias 'textscaner'
-            keyPassword 'textscaner123'
+            storePassword 'textscanner123'
+            keyAlias 'textscanner'
+            keyPassword 'textscanner123'
         }
     }
 
