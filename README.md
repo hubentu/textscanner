@@ -74,7 +74,7 @@ The app uses:
 
 ## License
 
-[Add your license information here]
+GPL-3.0
 
 ## Contributing
 
@@ -82,4 +82,4 @@ Feel free to submit issues and enhancement requests!
 
 ## Acknowledgments
 
-This application was developed with the assistance of Cascade AI, a powerful AI coding assistant by Codeium. The AI provided guidance and expertise in implementing the camera preview, text recognition, and user interface components.
+This application was developed with the assistance of multiple AI services.
