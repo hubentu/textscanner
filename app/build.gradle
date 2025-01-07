@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.textscaner'
+    namespace 'com.example.textscanner'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.textscaner"
+        applicationId "com.example.textscanner"
         minSdk 21
         targetSdk 34
         versionCode 1
@@ -17,10 +17,20 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        release {
+            storeFile file('release-keystore.jks')
+            storePassword 'textscaner123'
+            keyAlias 'textscaner'
+            keyPassword 'textscaner123'
+        }
+    }
+
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
     

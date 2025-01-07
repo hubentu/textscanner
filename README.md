@@ -1,6 +1,6 @@
-# TextScaner Android App
+# TextScanner Android App
 
-TextScaner is an Android application that uses the device's camera to capture and recognize text in real-time. The app features a target region in the middle of the camera preview, making it easy to focus on specific text you want to capture.
+TextScanner is an Android application that uses the device's camera to capture and recognize text in real-time. The app features a target region in the middle of the camera preview, making it easy to focus on specific text you want to capture.
 
 ## Features
 
