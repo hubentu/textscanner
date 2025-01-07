@@ -1,4 +1,4 @@
-package com.example.textscaner
+package com.example.textscanner
 
 import android.Manifest
 import android.content.ClipData
@@ -20,7 +20,7 @@ import com.google.mlkit.vision.common.InputImage
 import com.google.mlkit.vision.text.TextRecognition
 import com.google.mlkit.vision.text.TextRecognizer
 import com.google.mlkit.vision.text.latin.TextRecognizerOptions
-import com.example.textscaner.databinding.ActivityMainBinding
+import com.example.textscanner.databinding.ActivityMainBinding
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 
